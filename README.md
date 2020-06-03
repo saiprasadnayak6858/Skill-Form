@@ -6,4 +6,4 @@
 
 * Login form
 
-![Login Form](./screenshots/login.png)
+![Login Form](https://raw.githubusercontent.com/saiprasadnayak6858/Skill-Form/assets/screenshots/login.png)
