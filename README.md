@@ -2,7 +2,7 @@
 
 * Registration form
 
-![Registration Form](https://raw.githubusercontent.com/saiprasadnayak6858/Skill-Form/assets/register.png)
+![Registration Form](https://raw.githubusercontent.com/saiprasadnayak6858/Skill-Form/assets/screenshots/register.png)
 
 * Login form
 
