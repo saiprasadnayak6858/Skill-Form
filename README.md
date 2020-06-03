@@ -2,8 +2,8 @@
 
 * Registration form
 
-![Registration Form](screenshots/register.png)
+![Registration Form](./screenshots/register.png)
 
 * Login form
 
-![Login Form](screenshots/login.png)
+![Login Form](./screenshots/login.png)
