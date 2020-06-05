@@ -14,4 +14,4 @@
 
 * Pure Bootstrap Login Form
 
-![Pure Bootstrap Login Form](https://raw.githubusercontent.com/saiprasadnayak6858/Skill-Form/assets/screenshots/bootstrap-register.png)
+![Pure Bootstrap Login Form](https://raw.githubusercontent.com/saiprasadnayak6858/Skill-Form/assets/screenshots/bootstrap-login.png)
