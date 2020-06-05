@@ -103,8 +103,8 @@ input:focus {
   float: left;
 }
 .form-options a {
-  text-decoration: none;
   float: right;
+  text-decoration: none;
 }
 .btn {
   padding: 15px;
